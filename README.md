@@ -1,4 +1,7 @@
 # Image Classification using CIFAR10
+
+### Model
+![Model](Model.png)
  
 ### Accuracy Graph
 ![Accuracy Graph](Accuracy.png)
